@@ -11,11 +11,11 @@ In the project directory, you can run:
 
 It will save all installed packages as dependencies by default. It will create a node modules folder containing all the third-party libraries and dependencies.
 
-### 'npm start'
+### `npm start`
 
 This command will help to run the react app locally. It starts the app main process.
 
-### 'npm install --save-dev @babel/plugin-transform-private-property-in-object'
+### `npm install --save-dev @babel/plugin-transform-private-property-in-object`
 
 The command npm install --save-dev @babel/plugin-transform-private-property-in-object is used to install a specific Babel plugin as a development dependency in a Node.js project.
 
