@@ -1,4 +1,4 @@
-# How to run react app locally:
+# How to run traffic-light app locally:
 
 * Clone the repo locally into your PC either using SSH or HTTPS
 * Navigate to the directory where the project is cloned and run the following terminal commands to install the required dependencies.
