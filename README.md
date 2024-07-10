@@ -17,7 +17,7 @@ This command will help to run the react app locally. It starts the app main proc
 
 ### `npm install --save-dev @babel/plugin-transform-private-property-in-object`
 
-The command npm install --save-dev @babel/plugin-transform-private-property-in-object is used to install a specific Babel plugin as a development dependency in a Node.js project.
+Installs a specific Babel plugin as a development dependency in a Node.js project.
 
 ### `npm test`
 
