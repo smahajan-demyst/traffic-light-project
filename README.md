@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 It will save all installed packages as dependencies by default. It will create a node modules folder containing all the third-party libraries and dependencies.
 
-### 'npm start
+### 'npm start'
 
 This command will help to run the react app locally. It starts the app main process.
 
