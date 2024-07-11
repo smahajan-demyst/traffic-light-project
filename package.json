@@ -11,9 +11,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "yarn run start:local",
+    "start:local": "react-scripts start",
+    "build": "yarn run build:local",
+    "build:local": "react-scripts build",
+    "test": "yarn run test:local",
+    "test:local": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -36,6 +39,7 @@
   },
   "devDependencies": {
     "@babel/plugin-transform-private-property-in-object": "^7.24.7",
-    "@testing-library/react": "^16.0.0"
+    "@testing-library/react": "^16.0.0",
+    "yarn": "^1.22.19"
   }
 }

@@ -7,24 +7,24 @@
 
 In the project directory, you can run:
 
-### `npm install`
+### `yarn install`
 
 It will save all installed packages as dependencies by default. It will create a node modules folder containing all the third-party libraries and dependencies.
 
-### `npm start`
+### `yarn start`
 
 This command will help to run the react app locally. It starts the app main process.
 
-### `npm install --save-dev @babel/plugin-transform-private-property-in-object`
+### `yarn add --dev @babel/plugin-transform-private-property-in-object`
 
 Installs a specific Babel plugin as a development dependency in a Node.js project.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -32,4 +32,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information. 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
