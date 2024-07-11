@@ -46,3 +46,4 @@ test('traffic light cycles through colors', async () => {
   });
   await waitFor(() => expect(greenLight).toHaveStyle('background-color: green'));
 });
+
