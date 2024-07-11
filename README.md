@@ -7,6 +7,10 @@
 
 In the project directory, you can run:
 
+### `npm install -g yarn`
+
+The command installs Yarn globally on your system using npm (optional if yarn is already not installed).
+
 ### `yarn install`
 
 It will save all installed packages as dependencies by default. It will create a node modules folder containing all the third-party libraries and dependencies.
@@ -15,9 +19,9 @@ It will save all installed packages as dependencies by default. It will create a
 
 This command will help to run the react app locally. It starts the app main process.
 
-### `yarn add --dev @babel/plugin-transform-private-property-in-object`
+### `npm install --save-dev @testing-library/user-event @testing-library/dom`
 
-Installs a specific Babel plugin as a development dependency in a Node.js project.
+Installs specific dependencies for running unit tests.
 
 ### `yarn test`
 
