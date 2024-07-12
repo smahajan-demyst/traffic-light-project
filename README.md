@@ -15,13 +15,13 @@ The command installs Yarn globally on your system using npm (optional if yarn is
 
 It will save all installed packages as dependencies by default. It will create a node modules folder containing all the third-party libraries and dependencies.
 
+### `yarn add @testing-library/dom`
+
+Installs specific dependencies for running unit tests.
+
 ### `yarn start`
 
 This command will help to run the react app locally. It starts the app main process.
-
-### `npm install --save-dev @testing-library/user-event @testing-library/dom`
-
-Installs specific dependencies for running unit tests.
 
 ### `yarn test`
 
