@@ -11,6 +11,10 @@ In the project directory, you can run:
 
 The command installs Yarn globally on your system using npm (optional if yarn is already not installed).
 
+### `yarn cache clean`
+
+It will clear Yarn's local cache of downloaded packages. 
+
 ### `yarn install`
 
 It will save all installed packages as dependencies by default. It will create a node modules folder containing all the third-party libraries and dependencies.
