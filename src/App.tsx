@@ -3,7 +3,7 @@ import './style.css';
 import { useState, useEffect } from 'react';
 
 const App: React.FC = () => {
-  const [currentLight, setCurrentLight] = useState<string>('green');
+  const [currentLight, setCurrentLight] = useState<string>('green');//React Hook to manage the state of the current light
 
   useEffect(() => {
     let timer: NodeJS.Timeout;
